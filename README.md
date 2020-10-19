@@ -1,7 +1,7 @@
 # Awesome Artificial Intelligence
 A curated list of artificial intelligence resources (Courses, Tools, App, Open Source Project)
 
-If you want to contribute to this list (please do), send me a pull request or contact me ozitquan@gmail.com
+If you want to contribute to this list (please do), send me a pull request or contact me yashvantpolu@gmail.com
 
 ## Contents
 
